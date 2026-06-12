@@ -1,0 +1,81 @@
+.absolut{
+    position: absolute;
+    left: 20px;
+    top: 10px;
+    
+}
+.absolute{
+    position: absolute;
+    bottom: 20px;
+    right: 10px;
+    background-color: blueviolet;
+}
+.relativ{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+.relative{
+    position: relative;
+    bottom: 10px;
+    right: 20px;
+    background-color: aqua;
+
+}
+*{
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 20px;
+}
+.bloqu{
+    background-color: red;
+    
+}
+.bloque{
+    background-color: yellow;
+    
+}
+.bloques{
+    background-color: green;
+    
+}
+.contenedor{
+    width: 600px;
+    height: 700px;
+    background-color: greenyellow;
+    border: 2px solid black;
+}
+.caja1{
+    width: 460px;
+    height: 70px;
+    background-color: brown;
+    border: 2px solid black;
+}
+.caja2{
+    width: 460px;
+    height: 70px;
+    background-color: brown;
+    border: 2px solid black;
+}
+.caja3{
+    width: 460px;
+    height: 70px;
+    background-color: brown;
+    border: 2px solid black;
+}
+.elecontenedor{
+    background-color: aquamarine;
+}
+.elebloque{
+    background-color: aqua;
+}
+.elelinea{
+    display: inline;
+    background-color: brown;
+    margin: 20px;
+    padding: 10px;
+    width: 100px;
+}
+.baj{
+    background-color: blueviolet;
+}
